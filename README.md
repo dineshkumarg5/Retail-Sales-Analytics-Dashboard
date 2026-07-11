@@ -18,7 +18,31 @@
 
 *Demonstrating the complete Data Analytics workflow — from raw data to executive insights*
 
+*Built using Python, SQL, Jupyter Notebook, and Power BI to analyze retail sales data and generate actionable business insights.*
+
 </div>
+
+---
+
+## 📑 Table of Contents
+
+- [Project Overview](#-project-overview)
+- [Repository Overview](#-repository-overview)
+- [Project Objectives](#-project-objectives)
+- [Tech Stack](#%EF%B8%8F-tech-stack)
+- [Skills Demonstrated](#-skills-demonstrated)
+- [Repository Structure](#-repository-structure)
+- [Dataset Information](#-dataset-information)
+- [Sample Visualizations](#-sample-visualizations)
+- [Power BI Dashboard](#-power-bi-dashboard)
+- [EDA Highlights](#-eda-highlights)
+- [SQL Analysis](#%EF%B8%8F-sql-analysis)
+- [Business Insights](#-business-insights)
+- [How to Run](#-how-to-run)
+- [Future Enhancements](#-future-enhancements)
+- [Quick Links](#-quick-links)
+- [Author](#-author)
+- [License](#-license)
 
 ---
 
@@ -317,6 +341,8 @@ FROM customer_rfm;
 7. **Consistent YoY revenue growth** (20%+ in 2017)
 8. **West Region** is the most profitable — use as benchmark for others
 9. **Copiers sub-category** has 37% margin — expand to underperforming regions
+
+> *These insights are based on exploratory data analysis of the Superstore dataset and are intended to demonstrate how analytical findings can support business decision-making.*
 
 ---
 
