@@ -2,7 +2,7 @@
 
 # 📊 Retail Sales Analytics Dashboard
 
-### A Complete End-to-End Data Analytics Portfolio Project
+### An End-to-End Retail Sales Analytics Portfolio Project
 
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Pandas](https://img.shields.io/badge/Pandas-2.1-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
@@ -36,6 +36,20 @@ It is designed to reflect the kind of work done in entry-level to junior Data An
 
 ---
 
+## 📈 Repository Overview
+
+| | |
+|---|---|
+| 📂 **Project Files** | 40 files across 8 folders |
+| 📓 **Jupyter Notebooks** | 5 notebooks (Collection → Insights) |
+| 📊 **Visualizations** | 10 professional dark-theme charts |
+| 🗄️ **SQL Scripts** | 9 scripts (DDL → Triggers → 30 Interview Q&A) |
+| 📈 **Power BI Dashboard** | 1 interactive dashboard (5 pages) |
+| 📋 **Business Reports** | 2 reports (Full Analysis + Executive Summary) |
+| 🐍 **Python Modules** | 3 reusable analysis modules |
+
+---
+
 ## 🎯 Project Objectives
 
 | # | Objective | Status |
@@ -63,6 +77,20 @@ It is designed to reflect the kind of work done in entry-level to junior Data An
 | **Notebooks** | Jupyter Notebook | Interactive analysis |
 | **Dashboard** | Power BI Desktop | Business dashboard |
 | **Version Control** | Git & GitHub | Project management |
+
+---
+
+## 🎯 Skills Demonstrated
+
+| Category | Skills |
+|---|---|
+| **Data Engineering** | Data Collection, Data Cleaning, Feature Engineering, Data Preprocessing |
+| **Analysis** | Exploratory Data Analysis (EDA), Statistical Analysis, Trend Analysis, Seasonality Detection |
+| **SQL** | DDL/DML, Joins, Subqueries, CTEs, Window Functions, Stored Procedures, Triggers |
+| **Segmentation** | RFM Customer Segmentation, Cohort Analysis, Behavioural Analytics |
+| **Visualization** | Matplotlib, Seaborn, Dark-Theme Chart Design, Heatmaps, Scatter Plots |
+| **BI & Reporting** | Power BI Dashboard Development, Business Insight Generation, Executive Reporting |
+| **Python** | Pandas, NumPy, Modular Code Design, Reusable Functions |
 
 ---
 
@@ -174,21 +202,23 @@ Retail-Sales-Analytics-Dashboard/
 
 ---
 
-## 📊 Dashboard Preview
+## 📊 Power BI Dashboard
 
-The Power BI dashboard (`dashboard/Sales_Dashboard.pbix`) features **5 interactive pages**:
+![Retail Sales Analytics Dashboard](images/dashboard_preview.png)
+
+The dashboard features **5 interactive pages** with cross-filtering slicers:
 
 | Page | Content |
 |---|---|
 | **Executive Overview** | KPI cards, category donut, yearly bar |
 | **Sales Trends** | Monthly line, quarterly bars, YoY growth |
-| **Products** | Top 10 bar, sub-category matrix |
+| **Products** | Top 10 bar, sub-category profit matrix |
 | **Regional** | US filled map, state rankings |
 | **Customers** | Segment donut, RFM scatter, LTV table |
 
 **Slicers**: Year · Region · Category · Segment · Ship Mode
 
-> 💡 Open `dashboard/Sales_Dashboard.pbix` in Power BI Desktop (free) to explore the interactive dashboard.
+> 💡 Open `dashboard/Sales_Dashboard.pbix` in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free) to explore the fully interactive version.
 
 ---
 
