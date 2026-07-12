@@ -421,11 +421,11 @@ mysql -u root -p < sql/02_insert_data.sql
 
 **Dinesh Kumar G**
 
-[![GitHub](https://img.shields.io/badge/GitHub-dineshkumarg5-181717?style=for-the-badge&logo=github)](https://github.com/dineshkumarg5)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dineshkumarg5)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinesh369.official@gmail.com)
+GitHub : [![GitHub](https://img.shields.io/badge/GitHub-dineshkumarg5-181717?style=for-the-badge&logo=github)](https://github.com/dineshkumarg5)
 
-*Data Analyst | Python | SQL | Power BI*
+LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dineshkumarg5)
+
+Email : [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinesh369.official@gmail.com)
 
 </div>
 
@@ -433,14 +433,8 @@ mysql -u root -p < sql/02_insert_data.sql
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
-<div align="center">
-
 *If this project helped you, consider giving it a ⭐ on GitHub!*
-
-**Other Projects**: [FoodLink](https://github.com/dineshkumarg5/FoodLink) · [Web-Based Voting System](https://github.com/dineshkumarg5/Web-Based-Voting-System) · [SQL Practice](https://github.com/dineshkumarg5/SQL-Practice) · [Python Practice](https://github.com/dineshkumarg5/Python-Practice)
-
-</div>
