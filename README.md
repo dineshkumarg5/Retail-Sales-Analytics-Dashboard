@@ -421,11 +421,11 @@ mysql -u root -p < sql/02_insert_data.sql
 
 **Dinesh Kumar G**
 
-GitHub : [![GitHub](https://img.shields.io/badge/GitHub-dineshkumarg5-181717?style=for-the-badge&logo=github)](https://github.com/dineshkumarg5)
+[![GitHub](https://img.shields.io/badge/GitHub-dineshkumarg5-181717?style=for-the-badge&logo=github)](https://github.com/dineshkumarg5)
 
-LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dineshkumarg5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dineshkumarg5)
 
-Email : [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinesh369.official@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinesh369.official@gmail.com)
 
 </div>
 
